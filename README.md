@@ -38,6 +38,8 @@
 - Aprendi que, às vezes, usar funções prontas é mais eficiente.
 - A prática trouxe insights valiosos sobre NLP e desempenho de hardware.
 
+OBSERVAÇÃO: Adicionei os códigos treinamento com cpu e gpu na pasta códigos, para verificar a diferença nos logs caso o senhor queira.
+
 
 
 
